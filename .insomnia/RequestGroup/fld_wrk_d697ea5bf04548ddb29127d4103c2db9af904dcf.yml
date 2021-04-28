@@ -1,0 +1,10 @@
+_id: fld_wrk_d697ea5bf04548ddb29127d4103c2db9af904dcf
+type: RequestGroup
+parentId: wrk_d697ea5bf04548ddb29127d4103c2db9
+modified: 1619605269869
+created: 1619605269869
+name: merchant
+description: Merchants can access the status of orders that they need to fulfill
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1619605269869
